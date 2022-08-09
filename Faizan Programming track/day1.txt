@@ -1,1 +1,6 @@
-abc
+<em> Day 1 09/AUG/2022 </em>
+
+
+<h1> Binary Numbers </h1>
+A binary number is a number expressed in the base-2 numeral system or binary numeral system, a method of mathematical expression which uses only two symbols: typically "0" and "1".
+
