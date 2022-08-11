@@ -6,3 +6,19 @@ A binary number is a number expressed in the base-2 numeral system or binary num
 
 <em> Day 2 10/AUG/2022 </em>
 Scratch programmingg
+
+<em> Day 3 11/AUG/2022 </em>
+
+header files: 
+A header file is a file with extension .h which contains C function declarations and macro definitions to be shared between several source files. There are two types of header files: the files that the programmer writes and the files that comes with your compiler.
+
+C language
+
+#include <stdio.h>
+
+int main (void)
+{
+  printf ("hello, world");
+}
+
+functions: A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times.
