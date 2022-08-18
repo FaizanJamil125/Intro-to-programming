@@ -32,3 +32,5 @@ examples:
 3) mkdir= make directory
 4) rmdir= remove directory
 5) cd.. = guides to parent directory i.e: parent folder
+
+<strong>Day 4 18/Aug/2022</strong>
