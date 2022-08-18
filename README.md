@@ -26,3 +26,9 @@ int main (void)
 }
 
 functions: A function is simply a “chunk” of code that you can use over and over again, rather than writing it out multiple times.
+examples:
+1) cd= change directory (opens a specific file)
+2) ls= listing
+3) mkdir= make directory
+4) rmdir= remove directory
+5) cd.. = guides to parent directory i.e: parent folder
