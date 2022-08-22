@@ -37,4 +37,7 @@ examples:
 
 <strong>Day 4 18/Aug/2022</strong>
 
-
+<strong>Day 6 22/Aug/2022>
+  
+  <h1>VS code</h1>
+  != emmet (html basic format)
