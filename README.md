@@ -43,4 +43,15 @@ examples:
   
   // != emmet (html basic format)
   
+  <strong>Day 7 23/Aug/2022</strong>
+  
+  <h1>HTML,CSS,JAVASCRIPT</h1>
+  
+  HTML (Hyper Text Markup Language) is the language for describing the structure of Web pages.
+  CSS ( Cascading Style Sheet) CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
+  Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.
+  
+  We start building a website by creating a file named index.html is VS code.
+  We can use "inspect element" or "view page source" option from chrome to look into a website's HTML code.
+  
  
