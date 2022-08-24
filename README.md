@@ -55,5 +55,9 @@ examples:
   We can use "inspect element" or "view page source" option from chrome to look into a website's HTML code.
   
   <strong>Day 8 24/Aug/2022</strong>
+  Page layout:
+  Semantic tags:
+  header,section(main,aside,article) and footer
+  
   
  
