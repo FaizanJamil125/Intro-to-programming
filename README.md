@@ -51,7 +51,9 @@ examples:
   CSS ( Cascading Style Sheet) CSS describes how HTML elements are to be displayed on screen, paper, or in other media.
   Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers.
   
-  We start building a website by creating a file named index.html is VS code.
+  We start building a website by creating a file named index.html in VS code.
   We can use "inspect element" or "view page source" option from chrome to look into a website's HTML code.
+  
+  <strong>Day 8 24/Aug/2022</strong>
   
  
