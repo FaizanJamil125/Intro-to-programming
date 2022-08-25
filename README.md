@@ -37,7 +37,7 @@ examples:
 
 <strong>Day 4 18/Aug/2022</strong>
 
-<strong>Day 6 22/Aug/2022>
+<strong>Day 6 22/Aug/2022</strong>
   
   <h1>VS code</h1>
   
