@@ -10,7 +10,7 @@
 
 <h1>git commands</h1>
 git init<br/>
-git add README.md<br/>
+git add .<br/>
 git commit -m "first commit"<br/>
 git branch -M main<br/>
 git remote add origin https://github.com/FaizanJamil125/css.git<br/>
