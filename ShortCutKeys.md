@@ -9,15 +9,15 @@
 <h1> General Commands and Short Cut Keys </h1>
 
 <h1>git commands</h1>
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/FaizanJamil125/css.git
-git push -u origin main
+git init<br/>
+git add README.md<br/>
+git commit -m "first commit"<br/>
+git branch -M main<br/>
+git remote add origin https://github.com/FaizanJamil125/css.git<br/>
+git push -u origin main<br/>
 
 
-when updating files
-git add .
-git commit -m "first commit"
-git push origin main
+when updating files<br/>
+git add .<br/>
+git commit -m "first commit"<br/>
+git push origin main<br/>
